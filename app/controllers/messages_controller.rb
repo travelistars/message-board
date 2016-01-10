@@ -1,3 +1,4 @@
+I18n.locale = "ja"
 class MessagesController < ApplicationController
   before_action :set_message, only: [:edit, :update, :destroy]
   def index
